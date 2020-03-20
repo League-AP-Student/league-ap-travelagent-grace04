@@ -3,7 +3,7 @@ public class Flight {
 	private Time departureTime;
 	private Time arrivalTime;
 	
-	public Time getDeparturetime() {
+	public Time getDepartureTime() {
 		return departureTime;
 	}
 	
